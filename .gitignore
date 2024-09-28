@@ -32,3 +32,6 @@
 *.app
 /.vs
 /CodeEditor/x64
+/CodeEditor/Release
+/x64
+/Release
