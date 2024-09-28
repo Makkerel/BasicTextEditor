@@ -11,7 +11,7 @@ Have a Windows Machine and Install Visual Studio 2022 with C++ Development. I cu
 Download and build [Wxwidgets Library](https://www.wxwidgets.org/downloads/) and build the library. 
 
 ## Step 3
-Start the solution, go to properties and add the libary for **addtional include directories**. Then go to the linker settings add the **additional library directories** where the libaries were built. Note for the link if you have different platforms the libaries will be different.
+Start the solution, go to properties and add the include directory for **addtional include directories**. Then go to the linker settings add the libary that was built to **additional library directories**. Note for the linker settings if you have different platforms the libaries will be different.
 
 ## Step 4
 You can now build the text editor.
