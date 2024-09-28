@@ -15,3 +15,8 @@ Start the solution, go to properties and add the libary for **addtional include 
 
 ## Step 4
 You can now build the text editor.
+
+# Future Features
+- All Buttons in Status bar will actually work
+- Saved Settings for the Text Editor
+- More custom changes to the Scintilla Editting Component
