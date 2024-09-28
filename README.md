@@ -17,6 +17,7 @@ Start the solution, go to properties and add the include directory for **addtion
 You can now build the text editor.
 
 # Future Features
+- Make a CMake File
 - All Buttons in Status bar will actually work
 - Saved Settings for the Text Editor
 - More custom changes to the Scintilla Editting Component
