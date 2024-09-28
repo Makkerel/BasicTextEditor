@@ -1,6 +1,6 @@
 # CodeEditor
 
-This is a basic text editor in C++ with the wxWidgets Library. Download the latest release on windows which includes the .exe file and run it on windows. I currently do not have a way to run it easily outside of Windows.
+This is a basic text editor in C++ with the wxWidgets Library. Download the latest release on windows which includes the .exe file and run it on windows(this may trigger windows defender just tell it to run anyway). I currently do not have a way to run it easily outside of Windows.
 
 # Installation/Compile
 
